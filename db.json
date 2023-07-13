@@ -1,0 +1,68 @@
+{
+  "blogs": [
+    {
+      "title": "Food Blog ",
+      "description": "Welcome to my food blog, where I explore the world of flavors and indulge in culinary adventures. Join me on this gastronomic journey as I take you on a delicious ride in just 100 words.  Today's featured dish is a mouthwatering creation: Crispy Parmesan Chicken. The succulent chicken breast is coated in a mixture of breadcrumbs, Parmesan cheese, and savory herbs, then pan-fried to golden perfection. With each bite, you experience a delightful crunch followed by the juicy tenderness of the chicken. Served alongside a zesty tomato sauce and a side of buttery mashed potatoes, this dish is a symphony of flavors that will leave you craving for more. ",
+      "category": "Food",
+      "imageUrl": "http://res.cloudinary.com/druzfwqpe/image/upload/v1689259564/bpo0pxh5mvw1hvzecaaf.jpg",
+      "date": "07/13/2023",
+      "id": 1
+    },
+    {
+      "title": "Blog Food ",
+      "description": "Today's featured dish is a mouthwatering creation: Crispy Parmesan Chicken. The succulent chicken breast is coated in a mixture of breadcrumbs, Parmesan cheese, and savory herbs, then pan-fried to golden perfection. With each bite, you experience a delightful crunch followed by the juicy tenderness of the chicken. Served alongside a zesty tomato sauce and a side of buttery mashed potatoes, this dish is a symphony of flavors that will leave you craving for more. It's simple yet satisfying, making it a crowd-pleaser for any occasion. Bon appétit!",
+      "category": "Food",
+      "imageUrl": "http://res.cloudinary.com/druzfwqpe/image/upload/v1689259625/vn57wws8yacyw9vvxoks.jpg",
+      "date": "07/13/2023",
+      "id": 2
+    },
+    {
+      "title": "Football ",
+      "description": "Football is a very famous sport. Everyone calls the game football, but USA calls it soccer because the USA has a different game that they call football. Football is a game that is always played between two teams. The total number of players is 22 as each team has 11 players. There is a referee who observes the whole match and makes sure everyone follows the rules. At the end of the time of the game, the team that has the highest goals wins the game.Read more on Sarthaks.com - https://www.sarthaks.com/3457091/essay-on-football-in-100-words",
+      "category": "sports",
+      "imageUrl": "http://res.cloudinary.com/druzfwqpe/image/upload/v1689259798/wrre2zapmmwnsegmyvwz.jpg",
+      "date": "07/13/2023",
+      "id": 3
+    },
+    {
+      "title": "Sports ",
+      "description": "Football is a very famous sport. Everyone calls the game football, but USA calls it soccer because the USA has a different game that they call football. Football is a game that is always played between two teams. The total number of players is 22 as each team has 11 players. There is a referee who observes the whole match and makes sure everyone follows the rules. At the end of the time of the game, the team that has the highest goals wins the game.Read more on Sarthaks.com - https://www.sarthaks.com/3457091/essay-on-football-in-100-words",
+      "category": "sports",
+      "imageUrl": "http://res.cloudinary.com/druzfwqpe/image/upload/v1689259825/sxdn5leknxahn2p3udwe.jpg",
+      "date": "07/13/2023",
+      "id": 4
+    },
+    {
+      "title": "Trvel Me",
+      "description": "I had Kashmir on the itinerary for my Navarathri holidays. I took a flight to Srinagar from Delhi. I was thrilled to see the snow-capped mountains and lovely valleys outside my window. I visited Shalimar Bagh and Nishant Bagh before taking a shikara ride on Dal Lake. There were many markets floating on the boundary of Dal Lake. In the following days, I went to Gulmarg, Pahalgam and Sonmarg. After visiting all those places, this trip came to an end and was one of the best trips of my life. I met a lot of new people who were international tourists coming there for the first time.",
+      "category": "Travel",
+      "imageUrl": "http://res.cloudinary.com/druzfwqpe/image/upload/v1689259958/qkgj0azh8dox0t5h06sr.jpg",
+      "date": "07/13/2023",
+      "id": 5
+    },
+    {
+      "title": "GYM ",
+      "description": "Eat meat and vegetables, nuts and seeds, some fruit, little starch and no sugar. Keep intake to levels that will support exercise but not body fat.  Practice and train major lifts: Deadlift, clean, squat, presses, C&J, and snatch. Similarly, master the basics of gymnastics: pull-ups, dips, rope climb, push-ups, sit-ups, presses to handstand, pirouettes, flips, splits, and holds. Bike, run, swim, row, etc, hard and fast.  Five or six days per week mix these elements in as many combinations and patterns as creativity will allow. Routine is the enemy. Keep workouts short and intense.",
+      "category": "Fitness",
+      "imageUrl": "http://res.cloudinary.com/druzfwqpe/image/upload/v1689260010/pv2icl6xnl5ltkshc5aa.jpg",
+      "date": "07/13/2023",
+      "id": 6
+    },
+    {
+      "title": "Technology",
+      "description": "Technology is the study and application of technical aspects of materials, science, and nature to design mechanical, electrical, biological, and information systems to increase efficiency and make life easier. The history of technology dates back to the Neolithic Age or earlier. Pre-Neolithic people put their skills, resources, and developed technologies to their best use. Since then, technology has brought incredible advances to people's lives.  The first visible use of large-scale technology began in the 18th century as the Industrial Revolution, when the human hand was replaced by machine tools. After that, many researchers, scientists, and engineers tried to bring technology closer to humans. This human-technology connection has made our lives more technology-dependent and child's play.",
+      "category": "Tech",
+      "imageUrl": "http://res.cloudinary.com/druzfwqpe/image/upload/v1689260104/maxy3ywvbwmihr4c2ztv.jpg",
+      "date": "07/13/2023",
+      "id": 7
+    },
+    {
+      "title": "Fasion ",
+      "description": " These days, people dress to suit their tastes, styles, and preferences. They also consider new trends seriously and adhere to them obsessively. Fashion is determined by how individuals in a given state or region choose to dress, and it can differ greatly from one nation to the next.  Even though clothes are the primary focus when discussing fashion, other accessories like jewellery, purses, shoes, and eyewear can also play a significant role. These are combined in sophisticated clothes by people. Women tend to be much more prone to following trends than men, and women's fashion typically offers a lot more variation than men's.",
+      "category": "Fashion",
+      "imageUrl": "http://res.cloudinary.com/druzfwqpe/image/upload/v1689260202/vp5ka2iqsshqbkaprqq3.jpg",
+      "date": "07/13/2023",
+      "id": 8
+    }
+  ]
+}
